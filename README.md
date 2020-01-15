@@ -1,5 +1,6 @@
 # ideas
 general game ideas & game dev programs that we can use
+* Dating Simulator
 
 
 ***Python***
